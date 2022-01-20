@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+Podstawowe informacje dotyczące bezpieczeństwa w internecie 
 
-You can use the [editor on GitHub](https://github.com/Gerwazus/Bezpieczenstwo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+1. Odpowiedzialne szyfrowanie danych - pamiętajmy aby nie dzielić się z nikim obcym, niezależnie od stwarzanych pozorów naszymi hasłami, danymi osobowymi, miejscem zamieszkania lub szkolnictwa. Nasze hasło powinno być złożone z wielu znaków i niezwiązane z nickiem, aby było trudniejsze do odgadnięcia.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2. Zabezpieczenie urządzeń, przed szkodliwym oprogramowaniem - na serwerze surowo zabronione jest wysyłanie linków do stron z pobraniami wszelkiego rodzaju nie legalnie udostępnianych gier, piraconej muzyki, lub filmów ze względu na ogromną ilość wirusów rojących się na tego rodzaju serwisach, pamiętajmy również o nie logowaniu się w wysłane nam przez innych użytkowników linkach, gdyż w większość przypadków są to wirusy, podejmujmy także kroki potrzebne do zabezpieczenia się w sieci zaopatrzając się w zdrowy rozsądek, dzięki któremu będziemy unikać wszelkich podejrzanych stron.
 
-### Markdown
+3. Nie działaj pod wpływem emocji - w internecie możemy się spotkać z wszelkiego rodzaju próbami zastraszania oraz szantażu, w przypadku gdyby do tego doszło, staramy się działać z opanowaniem, pod żadnym względem nie ulegając, lecz powiadamiając o sprawie zaufaną osobę dorosłą oraz administrację serwera.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4. Używaj oryginalnego oprogramowania - Tylko legalnie działające oprogramowanie jest bieżąco udoskonalane przez producentów i możliwe jest jego uaktualnianie do nowszych wersji. Dzięki temu mogą być usuwane luki w bezpieczeństwie, które umożliwiają hakerom przeprowadzanie niebezpiecznych ataków, miejmy to na uwadze pobierając np. Launchery do gier. 
 
-```markdown
-Syntax highlighted code block
+5. Korzystaj z różnych adresów mailowych - ze względu na częste wycieki danych przez producentów, i ryzyko przejęcia poufnych danych na serwisach, powinniśmy korzystać z różnych adresów mailowych aby zróżnicować nasze dane rejestracyjne na serwisach z których korzystamy. Pamiętajmy o nie logowaniu się na niezabezpieczone strony z naszego głównego konta.
+6. Wykorzystywanie w internecie i jak sobie z tym poradzić ? 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gerwazus/Bezpieczenstwo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Znajmy granicę tego, co jest taktowne, zarówno jak i tolerowane na nasz wiek, w rozmowach internetowych sugerujmy się przede-wszystkim naszym własnym komfortem, jeśli rozmowa zaczyna przekraczać nasze wewnętrzne granice, szybko ją zakończmy 
+- Nie bójmy się osądzeń, odrzucenia, czy kary, musimy być świadomi tego, że to co nas spotyka nie jest naszą winą czy złą wolą, lecz prześladowczym zachowaniem osoby po drugiej stronie komputera, proszenie o pomoc nie powinno być czymś krępującym, a dowodem naszej odwagi odnośnie przejęcia kontroli nad sytuacją
+- Poinformuj zaufaną osobę dorosłą oraz administrację serwera o sytuacji. Osoby te będą wiedzieć jak najlepiej pomóc ci z sytuacją i do jakich służb się zwrócić.
+- Pomyśl o potencjalnej terapii i przepracowaniu traumy związanej z sytuacją
