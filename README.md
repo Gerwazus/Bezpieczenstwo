@@ -9,7 +9,7 @@ Podstawowe informacje dotyczące bezpieczeństwa w internecie
 4. Używaj oryginalnego oprogramowania - Tylko legalnie działające oprogramowanie jest bieżąco udoskonalane przez producentów i możliwe jest jego uaktualnianie do nowszych wersji. Dzięki temu mogą być usuwane luki w bezpieczeństwie, które umożliwiają hakerom przeprowadzanie niebezpiecznych ataków, miejmy to na uwadze pobierając np. Launchery do gier. 
 
 5. Korzystaj z różnych adresów mailowych - ze względu na częste wycieki danych przez producentów, i ryzyko przejęcia poufnych danych na serwisach, powinniśmy korzystać z różnych adresów mailowych aby zróżnicować nasze dane rejestracyjne na serwisach z których korzystamy. Pamiętajmy o nie logowaniu się na niezabezpieczone strony z naszego głównego konta.
-6. Wykorzystywanie w internecie i jak sobie z tym poradzić ? 
+6. Wykorzystywanie w internecie i jak sobie z tym poradzić? 
 
 - Znajmy granicę tego, co jest taktowne, zarówno jak i tolerowane na nasz wiek, w rozmowach internetowych sugerujmy się przede-wszystkim naszym własnym komfortem, jeśli rozmowa zaczyna przekraczać nasze wewnętrzne granice, szybko ją zakończmy 
 - Nie bójmy się osądzeń, odrzucenia, czy kary, musimy być świadomi tego, że to co nas spotyka nie jest naszą winą czy złą wolą, lecz prześladowczym zachowaniem osoby po drugiej stronie komputera, proszenie o pomoc nie powinno być czymś krępującym, a dowodem naszej odwagi odnośnie przejęcia kontroli nad sytuacją
